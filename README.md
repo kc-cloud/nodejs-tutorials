@@ -11,7 +11,7 @@ cd nodejs-tutorials
 npm install
 ```
 
-## Get started
+## Get started ..
 
 To start the express server, run the following
 
